@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-	<MARQUEE><h1>New user Register for DevOps. By Rohit Rathore.</h1></MARQUEE>
+	<MARQUEE><h1>New user Register for DevOps. By Rohit Rathore....</h1></MARQUEE>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
